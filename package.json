@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "node.js+Express+Socket.io+serialport",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmoriya823/serialport_test.git"
+  },
+  "author": "D.Moriya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmoriya823/serialport_test/issues"
+  },
+  "homepage": "https://github.com/dmoriya823/serialport_test#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serialport": "^9.0.7",
+    "socket.io": "^4.1.1"
+  }
+}
